@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cristianporco.it/app/convertitore-di-file-rtf-in-txt-con-rimozione-formattazione/sitemap.xml
